@@ -1,5 +1,7 @@
 # GitHub PR Comments MCP Server
 
+[![smithery badge](https://smithery.ai/badge/github-pr-mcp)](https://smithery.ai/server/github-pr-mcp)
+
 This is a Model Context Protocol (MCP) server that fetches GitHub Pull Request comments using a GitHub personal access token.
 
 ## Features
@@ -11,6 +13,15 @@ This is a Model Context Protocol (MCP) server that fetches GitHub Pull Request c
 
 ## Installation
 
+### Installing via Smithery
+
+To install github-pr-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/github-pr-mcp):
+
+```bash
+npx -y @smithery/cli install github-pr-mcp --client claude
+```
+
+### Installing Manually
 1. Clone the repository
 2. Install dependencies:
 
