@@ -4,6 +4,10 @@
 
 This is a Model Context Protocol (MCP) server that fetches GitHub Pull Request comments using a GitHub personal access token.
 
+<a href="https://glama.ai/mcp/servers/@shaileshahuja/github-pr-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@shaileshahuja/github-pr-mcp/badge" alt="GitHub PR Comments Server MCP server" />
+</a>
+
 ## Features
 
 - Fetches PR comments with file paths, line ranges, and replies
